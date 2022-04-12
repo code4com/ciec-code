@@ -18,7 +18,7 @@ Files provided:
 
 - runtime CLI command should look like 
 ```
-#python3 ./updatejson.py --env DEV --csv ./input.csv
+#python3 ./updatejson.py --env DEV --json ./config.json --csv ./input.csv
 ```
 - Submit/commit your code as a new file/s to your personal repo folder named challenge-03
 
