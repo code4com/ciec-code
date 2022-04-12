@@ -20,7 +20,7 @@ Files provided:
 ```
 #python3 ./updatejson.py --env DEV --csv ./input.csv
 ```
-- Submit/commit your code as a new file/s to folder challenge-03
+- Submit/commit your code as a new file/s to your personal repo folder named challenge-03
 
 - Please provide complete written instructions on how to use your solution files. Like how to run & get to answer.
 
