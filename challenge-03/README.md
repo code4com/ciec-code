@@ -16,7 +16,7 @@ Files provided:
 - your task is to write a simple python code to read from CSV file and update json file.
 - we should pass ENV as runtime parameter, based on which python code only update that part of json file leaving other json elements untouched.
 
-- runtime CLI command should look like 
+- runtime CLI command should look like but may not exactly.
 ```
 #python3 ./updatejson.py --env DEV --json ./config.json --csv ./input.csv
 ```
