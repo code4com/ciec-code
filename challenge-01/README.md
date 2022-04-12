@@ -16,7 +16,7 @@ Files provided:
 - Read xlsx worksheet `Instructions` on the problem statement.
 - Work on a solution to read data tables provided and to get a solution.
 - You can use any tool, any language to get to your solution.
-- Submit/commit your code as a new file/s to folder challenge-01 
+- Submit/commit your code as a new file/s to your personal repo folder named challenge-01
 - Please provide complete written instructions on how to use your solution files. Like how to run & get to answer.
 
 ## Solution 
