@@ -36,7 +36,7 @@ file-prood.txt --> file read for PROD environment
   
 - Submit/commit your code as a new file/s to your personal repo folder named challenge-02
 
-- Please provide complete written instructions on how to use your solution files. Like how to run & get to answer.
+- Please provide complete written instructions on how to use your solution files. Like how to run, build, deploy.
 
 ## Solution 
 ???
