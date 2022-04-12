@@ -33,7 +33,7 @@ file-prood.txt --> file read for PROD environment
 
 - Hints:
   1) you can't change server.go but can manipulate file*.* files in your deployment.
-  2) make sure your process includes golang build and run steps accordingly.
+  2) make sure your process includes golang build, run, deploy steps accordingly.
   
 - Submit/commit your code as a new file/s to your personal repo folder named challenge-02
 
