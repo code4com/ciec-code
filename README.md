@@ -1,18 +1,22 @@
 # ciec-code
 
 Please read all instructions carefully.
-You will have 3 challenges to work on before meeting. 
 
-You should roughly get 24hrs to work on all challenges.
-
-Please try to solve all or as many as possible.
+- You need to work on any 3 challenges before meeting. 
+   - Challenge-02) *DevOps* is MUST for DevOps role
+   - Challenge-04) *Developer* is MUST for Developers role
+ 
+- You should roughly get 24hrs to work on all challenges.
+- Please try to solve all or as many as possible.
 
 ## Challenges
 [challenge-01](challenge-01)
 
-[challenge-02](challenge-02)
+[challenge-02](challenge-02) *DevOps*
 
 [challenge-03](challenge-03)
+
+[challenge-04](challenge-04) *Developer*
 
 
 ## Steps
