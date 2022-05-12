@@ -40,7 +40,7 @@
 
 ####  Submission of Work
 - Submit/commit your code as *new* files in your personal repo folder
-   - Name your repo folder: `challenge-02`
+   - Name your repo folder: `challenge-04`
 - Please provide complete written instructions on how to use your solution files. 
      - e.g. Like how to run, build, deploy, etc.
 
