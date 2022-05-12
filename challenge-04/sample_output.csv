@@ -1,0 +1,4 @@
+FQDN,IP,DNS_time_ms,HTTP_handshake_time_ms
+wikipedia.org,208.80.153.224,20.7,533.34
+facebook.com,31.13.66.35,5.7,460.55
+google.com,142.250.72.78,20.5,330.6
