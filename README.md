@@ -5,8 +5,8 @@ Please read all instructions carefully.
 - You should roughly get 24hrs to work on challenges.
 - Based on time you may have, please try to solve all or as many as possible. Expectation is of at-least 3 Challenges.
 - You need to work on atleast one of the below challenges before meeting.  Pick one based on role you applied for.
-   - Challenge-02) *DevOps* is MUST for DevOps role
-   - Challenge-04) *Developer* is MUST for Developers role
+   - Challenge-02) *DevOps* : is MUST for DevOps role
+   - Challenge-04) *Developer* : is MUST for Developer role
  
 
 ## Challenges
