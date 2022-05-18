@@ -30,7 +30,7 @@ Please read all instructions carefully.
 - Please provide complete written instructions on how to use your solution files.
   e.g. Like how to run, build, deploy, etc.
 - Try to provide runtime performance commentary where possible.
-  e.g. Like profiling, resources used,  Big-O, garbage collection, scaling, dependency etc.
+  e.g. Profiling, Resources used,  Big-O, Garbage Collection, Scaling, Dependency etc.
 ### Share your github repo link at the time of meeting 
 - At the time of meeting, we will ask for your github repo link and we will review your code in the meeting along with you.
 
